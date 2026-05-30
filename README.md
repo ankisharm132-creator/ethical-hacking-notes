@@ -7,3 +7,10 @@ Main Ethical Hacking seekh raha hoon.
 - scanner.py — IP Scanner
 - portscanner.py — Port Scanner
 - guesser.py — Password Guesser
+## Mere Tools:
+- scanner.py — IP Scanner
+- portscanner.py — Port Scanner
+- guesser.py — Password Guesser
+- - checker.py — Website Checker
+- headers.py — Server Info Finder
+- web.py — Website Data Fetcher
