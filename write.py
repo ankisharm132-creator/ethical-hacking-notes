@@ -1,0 +1,5 @@
+file = open("results.txt", "w")
+file.write("Mera pehla file!\n")
+file.write("Anki ka hacking safar!\n")
+file.close()
+print("File save ho gayi!")
